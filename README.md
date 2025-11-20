@@ -38,4 +38,4 @@ My goal is to expand my knowledge in the cyberspace, and not only expand but sha
 
 | Project                            | Description         |
 |-----------------------------------------------|----------------------------|
-| Phone Numbers       | <a> Created a program that accesses various numbers and determines if they are valid numbers. A combination of OOP & regex patterns </a>|
+| Phone Numbers       | <a> Program reads in contact info & determines if they are valid NAMP/Phone numbers through regex patterns</a>|
