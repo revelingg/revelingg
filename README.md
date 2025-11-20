@@ -35,3 +35,8 @@ My goal is to expand my knowledge in the cyberspace, and not only expand but sha
 </div>
 
 ## Projects
+
+| Project                            | Description         |
+|-----------------------------------------------|----------------------------|
+| Phone Numbers       | <a> Created a program that accesses various numbers and determines if they are valid
+                            numbers. A combination of OOP & regex patterns </a>|
