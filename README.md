@@ -14,7 +14,7 @@ My goal is to expand my knowledge in the cyberspace, and not only expand but sha
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Blank 4 now        | <a>Blank for now</a>|
+| Python (OOP), data structures, state management, algorithmic problem solving, input validation      | <a>PyCraft</a>|
 
 ## Tools Used
 
@@ -39,3 +39,4 @@ My goal is to expand my knowledge in the cyberspace, and not only expand but sha
 | Project                            | Description         |
 |-----------------------------------------------|----------------------------|
 | Phone Numbers       | <a> Program reads in contact info & determines if they are valid NAMP/Phone numbers through regex patterns</a>|
+| PyCraft | <a> Built a program to simulate the minecraft crafting system, allowing users to access boards and materials through dictionaries </a>|
