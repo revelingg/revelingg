@@ -1,4 +1,4 @@
-# Hello, I'm Dante
+# Hello!
 <a href="https://www.linkedin.com/in/ibukun-adenuga-424461237/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
