@@ -15,13 +15,22 @@ My goal is to expand my knowledge in the cyberspace, and not only expand but sha
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python (OOP), regex, data structures, state management, algorithmic problem solving, input validation      | <a>PyCraft</a>|
-| Vector databases, embeddings, Retrieval Augmented Generation (RAG) | <a>Threat Intelligence Bot<a>
+| Vector databases, embeddings, Retrieval Augmented Generation (RAG) | Threat Intelligence Bot |
+|Active Directory administration, network security testing, enumeration, Kerberos, pass-the-hass & other windows Ad concepts| HomeLab Active Directory Environment|
 
 ## Tools Used
 
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,git,docker,windows&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/ChromaDB-6E3BFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
 
 
    
@@ -39,5 +48,8 @@ My goal is to expand my knowledge in the cyberspace, and not only expand but sha
 
 | Project                            | Description         |
 |-----------------------------------------------|----------------------------|
+|Threat Intelligence Bot | AI-powered cybersecurity analysis tool that uses MITRE ATT&CK + vector embeddings + ChromaDB to analyze network scans and generate possible attack paths and mitigation strategies.|
+|Active Directory HomeLab | Built a virtual enterprise network with Domain Controller, Windows clients, and attacker machines to practice AD enumeration, privilege escalation, and network security testing.| 
 | Phone Numbers       | <a> Program reads in contact info & determines if they are valid NAMP/Phone numbers through regex patterns</a>|
 | PyCraft | <a> Built a program to simulate the minecraft crafting system, allowing users to access boards and materials through dictionaries </a>|
+
