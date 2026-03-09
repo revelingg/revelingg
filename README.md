@@ -15,6 +15,7 @@ My goal is to expand my knowledge in the cyberspace, and not only expand but sha
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Python (OOP), regex, data structures, state management, algorithmic problem solving, input validation      | <a>PyCraft</a>|
+| Vector databases, embeddings, Retrieval Augmented Generation (RAG) | <a>Threat Intelligence Bot<a>
 
 ## Tools Used
 
